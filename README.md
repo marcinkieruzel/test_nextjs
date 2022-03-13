@@ -4,4 +4,4 @@
 - You'll see the list of products from one of our shops
 - Create a page that includes a list of all products with pagination (10 products per page). Don't bother about styling – it suffice to use bootstrap or any simple styling
 - Create a separate page for each product – use Incremental Static Regeneration Strategy and Dynamic Routes from Next.js
-- Filter products on a front page based on ```product_cat``
+- Filter products on a front page based on ```product_cat```
